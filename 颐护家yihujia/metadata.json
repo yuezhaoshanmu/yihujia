@@ -1,0 +1,7 @@
+{
+  "name": "颐护家 - 专业居家照顾",
+  "description": "为您提供最专业的居家照顾，包含营养食谱、AI陪伴、健康管理等功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
